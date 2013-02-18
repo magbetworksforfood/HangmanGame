@@ -1,18 +1,21 @@
 package {
 
-    import flash.display.Bitmap;
+    import controllers.MainController;
+
     import flash.display.Sprite;
     import flash.display.StageAlign;
     import flash.display.StageScaleMode;
-    import flash.events.MouseEvent;
-    import flash.text.TextField;
 
-    import org.osmf.layout.ScaleMode;
+    import models.MainModel;
+
+    import views.MainView;
 
     [SWF(width="310", height="450")]
     public class HangmanGame extends Sprite {
 
-        private var scaffold:Scaffold;
+        private var mainView:MainView
+        private var model:MainModel;
+        private var controller:MainController;
 
         public function HangmanGame() {
             init();
@@ -22,26 +25,12 @@ package {
             stage.scaleMode = StageScaleMode.NO_SCALE;
             stage.align = StageAlign.TOP;
 
-            var background:Bitmap = new Assets.background;
-            addChild(background);
+            mainView= new MainView();
+            addChild(mainView);
 
-            scaffold = new Scaffold();
-            addChild(scaffold);
-
-            var hangman:Bitmap = new Assets.hangman;
-            addChild(hangman);
-
-            var startButton:Button = new StartButton();
-            startButton.x = 100;
-            startButton.y = 310;
-            startButton.addEventListener(MouseEvent.CLICK, onStart);
-            addChild(startButton);
+            model = new MainModel();
+            controller = new MainController(mainView, model);
         }
 
-        private var i:int = 1;
-
-        private function onStart(event:MouseEvent):void {
-            scaffold.state = i++;
-        }
     }
 }

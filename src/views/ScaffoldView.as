@@ -1,16 +1,13 @@
-/**
- * Created with IntelliJ IDEA.
- * User: magbetjke
- * Date: 2/13/13
- * Time: 11:55 PM
- * To change this template use File | Settings | File Templates.
- */
-package {
+package views {
+    import enums.ScaffoldStates;
+
     import flash.display.Bitmap;
     import flash.display.Sprite;
     import flash.events.Event;
 
-    public class Scaffold extends Sprite {
+    import utils.Assets;
+
+    public class ScaffoldView extends Sprite {
 
         private var _state:uint = 0;
 
@@ -23,7 +20,7 @@ package {
         //hanged man
         public var part7:Bitmap;
 
-        public function Scaffold() {
+        public function ScaffoldView() {
             addEventListener(Event.ADDED_TO_STAGE, init);
         }
 
@@ -33,8 +30,6 @@ package {
             createChildren();
 
         }
-
-
 
         private function createChildren():void {
             part1 = new Assets.scaffold_1;
@@ -76,7 +71,7 @@ package {
                     case ScaffoldStates.THIRD_TRY:
                         part3.visible = true;
                         break;
-                    case ScaffoldStates.FOUTH_TRY:
+                    case ScaffoldStates.FOURTH_TRY:
                         part4.visible = true;
                         break;
                     case ScaffoldStates.FIFTH_TRY:
@@ -91,6 +86,32 @@ package {
                         break;
                 }
             }
+        }
+
+        public function setStateAsInt(state:int):void {
+            switch (state) {
+                case 1:
+                    this.state = ScaffoldStates.FIRST_TRY;
+                    break;
+                case 2:
+                    this.state = ScaffoldStates.SECONT_TRY;
+                    break;
+                case 3:
+                    this.state = ScaffoldStates.THIRD_TRY;
+                    break;
+                case 4:
+                    this.state = ScaffoldStates.FOURTH_TRY;
+                    break;
+                case 5:
+                    this.state = ScaffoldStates.FIFTH_TRY;
+                    break;
+                case 6:
+                    this.state = ScaffoldStates.SIXTH_TRY;
+                    break;
+                default:
+                    this.state = ScaffoldStates.NONE;
+            }
+
         }
 
         private function hideChildren():void {

@@ -4,17 +4,34 @@
     <list default="true" id="a34e8a25-5642-4af6-aa44-aa3b21e3c420" name="Default" comment="" />
     <ignored path="Hangman.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.js2" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360792732435" ignored="false" />
-    <file path="/Assets.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360790892688" ignored="false" />
-    <file path="/HangmanGame.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360792399547" ignored="false" />
+    <file path="/fragment.js2" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361140917523" ignored="false" />
+    <file path="/Assets.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361140749692" ignored="false" />
+    <file path="/HangmanGame.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361135357716" ignored="false" />
     <file path="/a.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360784018195" ignored="false" />
     <file path="/a.xml" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360784038665" ignored="false" />
     <file path="/Scaffold.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360792530988" ignored="false" />
     <file path="/ScaffoldStates.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360790065621" ignored="false" />
-    <file path="/Button.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360791458626" ignored="false" />
-    <file path="/StartButton.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360791279213" ignored="false" />
-    <file path="/a.dummy" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360792124561" ignored="false" />
-    <file path="/MainView.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1360792751794" ignored="false" />
+    <file path="/Button.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361141484598" ignored="false" />
+    <file path="/StartButton.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361091030082" ignored="false" />
+    <file path="/a.dummy" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361141370160" ignored="false" />
+    <file path="/MainView.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361136163549" ignored="false" />
+    <file path="/MainModel.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361166339581" ignored="false" />
+    <file path="/GameStates.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361133919721" ignored="false" />
+    <file path="/ScaffoldView.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361139210374" ignored="false" />
+    <file path="/KeyboardButton.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361167260851" ignored="false" />
+    <file path="/GameKeyboard.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361137078280" ignored="false" />
+    <file path="/LetterBox.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361130495858" ignored="false" />
+    <file path="/GuessedWord.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361130350316" ignored="false" />
+    <file path="/Word.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361129910534" ignored="false" />
+    <file path="/WordGuess.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361130236092" ignored="false" />
+    <file path="/Tutorial.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361132675194" ignored="false" />
+    <file path="/MainController.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361167152526" ignored="false" />
+    <file path="$PROJECT_DIR$/src/events.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361134202287" ignored="false" />
+    <file path="/ModelEvent.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361134480030" ignored="false" />
+    <file path="/GameKeyboardEvent.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361137281585" ignored="false" />
+    <file path="/WordToGuess.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361138933205" ignored="false" />
+    <file path="/WordsDictionary.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361166216290" ignored="false" />
+    <file path="/SoundManager.as" changelist="a34e8a25-5642-4af6-aa44-aa3b21e3c420" time="1361141324467" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +46,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -64,6 +80,7 @@
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -73,97 +90,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HangmanGame.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HangmanGame.as">
+      <file leaf-file-name="Button.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/Button.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="142" selection-start="347" selection-end="386" vertical-scroll-proportion="0.114503816">
+            <state line="3" column="77" selection-start="115" selection-end="115" vertical-scroll-proportion="0.08226691">
               <folding>
-                <element signature="e#15#43#0" expanded="true" />
+                <element signature="e#20#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainView.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainView.as">
+      <file leaf-file-name="WordsDictionary.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/WordsDictionary.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="36" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+            <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scaffold.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scaffold.as">
+      <file leaf-file-name="SoundManager.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/SoundManager.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="27" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#172#200#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainModel.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MainModel.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="44" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="library.swf" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/flex/frameworks/libs/player/11.4/playerglobal.swc!/library.swf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1573" column="25" selection-start="67533" selection-end="67533" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScaffoldStates.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ScaffoldStates.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="30" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Button.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="46" selection-start="1738" selection-end="1738" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#171#199#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StartButton.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StartButton.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="37" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
+            <state line="5" column="27" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Assets.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assets.as">
+        <entry file="file://$PROJECT_DIR$/src/utils/Assets.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="57" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0">
+            <state line="39" column="0" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="V1.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/V1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="MainModel.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models/MainModel.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="19" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#21#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelEvent.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/events/ModelEvent.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameKeyboardEvent.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/events/GameKeyboardEvent.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScaffoldStates.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enums/ScaffoldStates.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameStates.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enums/GameStates.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controllers/MainController.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="145" column="32" selection-start="5278" selection-end="5278" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#26#50#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -177,23 +196,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Hangman.as" />
-        <option value="$PROJECT_DIR$/src/ScaffoldStates.as" />
-        <option value="$PROJECT_DIR$/src/Assets.as" />
-        <option value="$PROJECT_DIR$/src/StartButton.as" />
-        <option value="$PROJECT_DIR$/src/Button.as" />
-        <option value="$PROJECT_DIR$/src/MainModel.as" />
-        <option value="$PROJECT_DIR$/src/Scaffold.as" />
+        <option value="$PROJECT_DIR$/src/views/LetterBox.as" />
+        <option value="$PROJECT_DIR$/src/events/GameKeyboardEvent.as" />
+        <option value="$PROJECT_DIR$/src/views/ScaffoldView.as" />
+        <option value="$PROJECT_DIR$/src/views/WordToGuess.as" />
+        <option value="$PROJECT_DIR$/src/utils/Assets.as" />
+        <option value="$PROJECT_DIR$/src/utils/SoundManager.as" />
+        <option value="$PROJECT_DIR$/src/utils/WordsDictionary.as" />
         <option value="$PROJECT_DIR$/src/HangmanGame.as" />
-        <option value="$PROJECT_DIR$/src/MainView.as" />
+        <option value="$PROJECT_DIR$/src/views/MainView.as" />
+        <option value="$PROJECT_DIR$/src/views/KeyboardButton.as" />
+        <option value="$PROJECT_DIR$/src/views/GameKeyboard.as" />
+        <option value="$PROJECT_DIR$/src/models/MainModel.as" />
+        <option value="$PROJECT_DIR$/src/enums/ScaffoldStates.as" />
+        <option value="$PROJECT_DIR$/src/enums/GameStates.as" />
+        <option value="$PROJECT_DIR$/src/controllers/MainController.as" />
+        <option value="$PROJECT_DIR$/src/views/Button.as" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
+    <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1900" />
-    <option name="height" value="1040" />
+    <option name="width" value="1916" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -221,7 +247,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,9 +280,117 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="events" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enums" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hangman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,13 +407,24 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="utils" />
+      <recent name="events" />
       <recent name="" />
+      <recent name="views" />
+      <recent name="controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/src/enums" />
+      <recent name="$PROJECT_DIR$/src/models" />
+      <recent name="$PROJECT_DIR$/src/utils" />
     </key>
   </component>
   <component name="RunManager" selected="Flash App.Hangman">
@@ -428,28 +573,28 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="13" y="22" width="1900" height="1040" extended-state="1" />
+    <frame x="4" y="22" width="1916" height="1058" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33043477" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973032" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24759358" sideWeight="0.6130064" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38699362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -509,87 +654,136 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="14" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/flex/frameworks/projects/framework/src/mx/core/BitmapAsset.as">
+    <entry file="file://$PROJECT_DIR$/src/views/StartButton.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="13" selection-start="4120" selection-end="4120" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/V1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/flex/frameworks/libs/player/11.4/playerglobal.swc!/library.swf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1573" column="25" selection-start="67533" selection-end="67533" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ScaffoldStates.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assets.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="57" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Button.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="46" selection-start="1738" selection-end="1738" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#171#199#0" expanded="true" />
+            <element signature="e#20#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StartButton.as">
+    <entry file="file://$PROJECT_DIR$/src/views/ScaffoldView.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="37" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scaffold.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="27" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
+        <state line="60" column="0" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#172#200#0" expanded="true" />
+            <element signature="e#20#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainModel.as">
+    <entry file="file://$PROJECT_DIR$/src/views/MainView.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="44" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MainView.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="36" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HangmanGame.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="142" selection-start="347" selection-end="386" vertical-scroll-proportion="0.114503816">
+        <state line="29" column="9" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#15#43#0" expanded="true" />
+            <element signature="e#20#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/LetterBox.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#20#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/KeyboardButton.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="43" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#20#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/GameKeyboard.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="57" selection-start="1668" selection-end="1668" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#20#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/WordsDictionary.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/SoundManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Assets.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/MainModel.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#21#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/events/ModelEvent.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/events/GameKeyboardEvent.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/ScaffoldStates.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/GameStates.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/MainController.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="32" selection-start="5278" selection-end="5278" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#26#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Button.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="77" selection-start="115" selection-end="115" vertical-scroll-proportion="0.08226691">
+          <folding>
+            <element signature="e#20#48#0" expanded="true" />
           </folding>
         </state>
       </provider>

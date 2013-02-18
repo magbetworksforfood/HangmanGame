@@ -1,12 +1,7 @@
-/**
- * Created with IntelliJ IDEA.
- * User: magbetjke
- * Date: 2/14/13
- * Time: 1:22 AM
- * To change this template use File | Settings | File Templates.
- */
-package {
+package views {
     import flash.display.Bitmap;
+
+    import utils.Assets;
 
     public class StartButton extends Button {
 
@@ -15,6 +10,8 @@ package {
         private var pressedState:Bitmap = new Assets.buttonPressed;
 
         public function StartButton() {
+            super();
+
             addChild(overState);
             addChild(normalState);
             addChild(pressedState);

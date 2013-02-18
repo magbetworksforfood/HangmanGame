@@ -1,11 +1,4 @@
-/**
- * Created with IntelliJ IDEA.
- * User: magbetjke
- * Date: 2/14/13
- * Time: 1:14 AM
- * To change this template use File | Settings | File Templates.
- */
-package {
+package views {
     import flash.display.Sprite;
     import flash.events.Event;
     import flash.events.MouseEvent;
@@ -52,7 +45,7 @@ package {
         }
 
         private function onMouseClick(event:MouseEvent):void {
-//            dispatchEvent(event);
+            doClick();
         }
 
         protected function setState(state:String):void {
@@ -65,6 +58,9 @@ package {
             removeEventListener(MouseEvent.MOUSE_OUT, onMouseOut);
             removeEventListener(MouseEvent.MOUSE_DOWN, onMouseDown);
             removeEventListener(MouseEvent.MOUSE_UP, onMouseUp);
+        }
+
+        protected function doClick():void {
         }
     }
 }
